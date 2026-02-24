@@ -1,0 +1,14 @@
+ "subscribers_count": 0
+}
+
+C:\Users\Dell>curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/PR_NUMBER > bug-fix-revert
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   134  100   134    0     0    134      0  0:00:01 --:--:--  0:00:01   204
+
+C:\Users\Dell>bug fixed-revert
+'bug' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Dell>
+
